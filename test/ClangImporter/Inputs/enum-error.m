@@ -1,3 +1,4 @@
+TestError
 #include "enum-error.h"
 
 NSString *const TestErrorDomain;
